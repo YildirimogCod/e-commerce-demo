@@ -1,0 +1,21 @@
+#navbar {
+    background-color: #d6ccc2!important;
+}
+.container-fluid img {
+    height:9rem;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.navbar-links {
+    margin-right: 50px;
+}
+.navbar-links ul {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-right: 70px;
+}
+.navbar-links ul li {
+    padding: 10px;
+
+}
